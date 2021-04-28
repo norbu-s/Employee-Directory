@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Table from './components/Table';
 import React from "react";
@@ -19,6 +18,7 @@ function App() {
   console.log("return",users)
   return (
     <div className="App">
+      <h1>Employees Directory</h1>
       <Table users={users}/>
     </div>
   );
