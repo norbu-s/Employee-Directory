@@ -15,3 +15,5 @@ Heroku - https://arcane-fortress-59795.herokuapp.com/
 Github Repo - https://github.com/norbu-s/Employee-Directory
 
 Application Screenshot
+
+![Screen Shot 2021-04-30 at 9 36 24 pm](https://user-images.githubusercontent.com/73917485/116690031-299deb00-a9fc-11eb-91fc-09071b9968a3.png)
