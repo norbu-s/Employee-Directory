@@ -1,7 +1,7 @@
 # Employee-Directory
 
 # Description
-A React application to search through an employee database budget.
+A React application to search through an employee database.
 
 # Movtivation
 This application was created in mind to provide enduser a simple but convenient application to keep track of thier employees.
